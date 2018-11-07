@@ -1,0 +1,118 @@
+.header{
+  width: 100%;
+  height: 160px;
+  border: 1px solid white;
+  position: relative;
+}
+.login{
+  width: 100%;
+  height: 50px;
+  border: 1px solid white;
+
+}
+.email1{
+  width: 20%;
+  height: 60px;
+  border: 1px solid white;
+  margin-left: 30%;
+  float: left;
+
+}
+.password1{
+  width: 20%;
+  height: 60px;
+  border: 1px solid white;
+  margin-left: 30%;
+  float: left;
+
+}
+.username{
+  width: 60%;
+  height: 20px;
+  border: 1px solid white;
+  margin-top: -8%;
+  float: left;
+}
+
+.email2 {
+  width: 50%;
+  height: 250px;
+  border: 1px solid white;
+  margin-left: 50%;
+}
+.email2_1{
+  width: 50%;
+  height: 60px;
+  border: 1px solid white;
+
+}
+.password2_1{
+  width: 50%;
+  height: 60px;
+  border: 1px solid white;
+}
+
+.checkbox{
+  width: 50%;
+  height: 60px;
+  border: 1px solid white;
+}
+.submit{
+
+  width: 50%;
+  height: 60px;
+  border: 1px solid white;
+}
+
+
+.forgot{
+  width: 100%;
+  height: 130px;
+  border: 1px solid white;
+}
+
+.footer{
+  width: 100%;
+  height: 50px;
+  border: 1px solid white;
+}
+
+.img{
+  /*float: left; /* Совмещение колонок по горизонтали */
+  right: -74%; /* Сдвиг слоя влево */
+  top: -50px; /* Смещение слоя вниз */
+  width: 26%; /* Ширина слоя */
+  height: 25%;
+  /*border: 1px solid yellow;*/
+  position: relative;
+}
+.photo_1{
+  width: 60%;
+  height: 100%;
+  /*border: 1px solid brown;*/
+  position: relative;
+
+}
+.photo_2{
+  bottom: 49%;
+  left: 23%;
+  width: 55%;
+  height: 100%;
+  /*border: 1px solid brown;*/
+  position: relative;
+}
+.photo_3{
+  bottom: 100%;
+  left: 40%;
+  width: 60%;
+  height: 100%;
+  border: 1px;
+  position: relative;
+}
+
+.a1{
+   text-decoration: none;
+  color: white;
+
+}
+
